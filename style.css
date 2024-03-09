@@ -52,17 +52,28 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+@media (max-width: 450px) {
+  #get_your_projects {
+    font-size: 18px !important;
+    font-weight: 300px !important;
+  }
+}
+
+@media (max-width: 450px) {
+  #get_your_faster {
+    font-size: 15px !important;
+    font-weight: 300px !important;
+  }
+}
+
 .Transparent_pricing {
   font-size: 15px;
   font-weight: 400;
   margin: 0px;
   margin-left: 50px;
 }
-@media (max-width: 650px) {
-  #faster_without {
-    font-size: 20px;
-  }
-}
+
 .free_img {
   width: 600px;
   height: 450px;
@@ -182,3 +193,16 @@
     width: 50%;
   }
 } */
+
+@media (max-width: 450px) {
+  .elevate_freelance {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 450px) {
+  #elevate_freelance {
+    font-size: 11px !important;
+    font-weight: 300px !important;
+  }
+}
