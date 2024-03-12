@@ -22,3 +22,5 @@ animateValue(months, 100, 20, 3000);
 
 const zero = document.getElementById("risk");
 animateValue(zero, 100, 0, 3000);
+
+
